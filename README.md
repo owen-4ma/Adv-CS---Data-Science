@@ -1,2 +1,3 @@
 # Adv-CS---Data-Science
-Hello!
+**Learning Data Science to Analyze Music Trends**
+This project is for me to learn a new skill in analyzing and visualizing data using python. This repository will contain an ipynb file for google collab that will act as a way of tracking my progress. It will not only contain notes but also three key milestone projects that are created along the way. Most learning will be done using the Associates Data Science course from data camp, with the final project combining all of the teachings into a project that analyzes and communicates music trends observed across communities. 
