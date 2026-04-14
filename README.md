@@ -1,3 +1,7 @@
 # Adv-CS---Data-Science
 **Learning Data Science to Analyze Music Trends**
 This project is for me to learn a new skill in analyzing and visualizing data using python. This repository will contain an ipynb file for google collab that will act as a way of tracking my progress. It will not only contain notes but also three key milestone projects that are created along the way. Most learning will be done using the Associates Data Science course from data camp, with the final project combining all of the teachings into a project that analyzes and communicates music trends observed across communities. 
+
+    The file Milestone_2_Customer_Analytics contains the second milestone project's code. It is a ipynb file that walks the user through an analysis and visualization of a dataset and the thought process behind it. It is also necessary that the user downloads the file customer_train.csv as that is what the project is using for analysis and will not function properly inside it. 
+
+    It is recommended that the project is run through google colab as the csv file must be manually loaded through google colab for the project to function. Other programs might require modification of the source code to function properly.
